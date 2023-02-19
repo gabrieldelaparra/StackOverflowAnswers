@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>system_xml_linq_xcontainer_element_returned_null</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyVersion>1.0.23050.0728</AssemblyVersion>
+    <FileVersion>1.0.23050.0728</FileVersion>
+  </PropertyGroup>
+
+</Project>
