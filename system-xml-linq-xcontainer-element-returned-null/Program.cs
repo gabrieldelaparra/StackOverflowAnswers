@@ -34,8 +34,7 @@ namespace system_xml_linq_xcontainer_element_returned_null
             var works = e.Element("prov").Element("getStatus").Element("pay").Attributes().Where(a => a.Name.LocalName.StartsWith("f"));
             ////Exception
             //IEnumerable<XAttribute> attrs1 = e.Element("response").Element("prov").Element("getStatus").Element("pay")?.Attributes().Where(a => a.Name.LocalName.StartsWith("f"));
-            Console.WriteLine(attrs1);
-            Console.ReadKey();
+            //Console.WriteLine(attrs1);
         }
 
         public static XmlDocument postXMLData(string xml)

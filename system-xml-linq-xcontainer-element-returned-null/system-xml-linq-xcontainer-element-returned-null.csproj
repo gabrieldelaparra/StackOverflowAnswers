@@ -6,8 +6,8 @@
     <RootNamespace>system_xml_linq_xcontainer_element_returned_null</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <AssemblyVersion>1.0.23050.0728</AssemblyVersion>
-    <FileVersion>1.0.23050.0728</FileVersion>
+    <AssemblyVersion>1.0.23050.0754</AssemblyVersion>
+    <FileVersion>1.0.23050.0754</FileVersion>
   </PropertyGroup>
 
 </Project>
