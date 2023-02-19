@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>merge_list_of_objects_using_linq_in_c_sharp</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyVersion>1.0.23050.0755</AssemblyVersion>
+    <FileVersion>1.0.23050.0755</FileVersion>
+  </PropertyGroup>
+
+</Project>
